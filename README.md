@@ -10,7 +10,6 @@
 # 💫 About Me:
 I'm a developer exploring the intersection of AI, full-stack development, and creative technology. I enjoy building interactive projects, experimenting with new tools, and turning ideas into real applications.<br><br>Currently focused on improving my problem-solving skills, building projects consistently, and learning how modern tech products are designed and deployed.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esha-valunj)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshavalunjj@gmail.com) 
 
@@ -53,7 +52,6 @@ I'm a developer exploring the intersection of AI, full-stack development, and cr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eshavalunj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=eshavalunj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
