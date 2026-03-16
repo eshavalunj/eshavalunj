@@ -1,0 +1,43 @@
+name: ESHA_OS — Spinning Contribution Globe
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # 30 min after the 3D chart, daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-contribution-globe
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install matplotlib numpy Pillow imageio
+
+      - name: Generate globe GIF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER:  ${{ github.repository_owner }}
+          OUTPUT_PATH: assets/contrib-globe.gif
+        run: python scripts/generate_globe_gif.py
+
+      - name: Commit & push
+        run: |
+          git config user.name  "ESHA_OS[bot]"
+          git config user.email "actions@github.com"
+          git add assets/contrib-globe.gif
+          git diff --cached --quiet || git commit -m "chore: update contribution globe [skip ci]"
+          git push
