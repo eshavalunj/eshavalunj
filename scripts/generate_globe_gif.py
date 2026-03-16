@@ -72,7 +72,24 @@ def fetch_contributions():
                  "User-Agent": "ESHA_OS-globe"},
         method="POST")
     with urllib.request.urlopen(req, timeout=15) as resp:
-        data = json.loads(resp.read())
+        raw  = resp.read()
+        data = json.loads(raw)
+
+    print("[ESHA_OS] GitHub API response (first 800 chars):")
+    print(json.dumps(data, indent=2)[:800])
+
+    if "errors" in data:
+        for e in data["errors"]:
+            print(f"[ESHA_OS] GraphQL error: {e.get('message')}")
+        raise RuntimeError("GraphQL errors — check token scopes")
+
+    if data.get("data") is None or data["data"].get("user") is None:
+        print(f"[ESHA_OS] user is null. GH_USER='{GITHUB_USER}'")
+        raise RuntimeError(
+            f"GitHub returned null for user '{GITHUB_USER}'. "
+            "Ensure GH_TOKEN secret has scopes: read:user + repo"
+        )
+
     cal   = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
     total = cal["totalContributions"]
     by_month = defaultdict(int)
