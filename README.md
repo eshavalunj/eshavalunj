@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Esha%20Valunj&fontSize=70&fontAlignY=40&color=0:ff7eb3,25:ff758c,50:ff6a00,75:8e2de2,100:4facfe&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20✦%20AI%20Builder%20✦%20Creative%20Technologist&descAlignY=63&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&section=header&text=Esha%20Valunj&fontSize=74&fontAlignY=42&fontColor=FFFBE6&color=0:070504,20:1a1206,40:3a2a17,65:7a5a2c,85:caa34a,100:fff3b0&animation=fadeIn&desc=Frontend%20Developer%20✦%20AI%20Builder%20✦%20Creative%20Technologist&descSize=19&descAlignY=65&descColor=FFEFA3"/>
 
 </div>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=FF7EB3&center=true&vCenter=true&width=600&lines=Designing+beautiful+interfaces;Building+AI+experiments;Creating+interactive+web+experiences;Exploring+creative+technology"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=E8C27A&center=true&vCenter=true&width=600&lines=Designing+beautiful+interfaces;Building+AI+experiments;Creating+interactive+web+experiences;Exploring+creative+technology"/>
 
 </p>
-</div>
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=19&duration=2800&pause=1200&color=9c7a5a&center=true&vCenter=true&width=700&lines=I+care+how+it+feels%2C+not+just+whether+it+runs.;VIT+Mumbai+·+SE+INFT+·+Hackathon+Builder;Building+AI+systems+that+talk%2C+think%2C+and+ship.;Design-led.+Full-stack.+Never+boring.)](https://github.com/eshavalunj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond\&weight=400\&size=19\&duration=2800\&pause=1200\&color=9c7a5a\&center=true\&vCenter=true\&width=700\&lines=I+care+how+it+feels%2C+not+just+whether+it+runs.;VIT+Mumbai+·+SE+INFT+·+Hackathon+Builder;Building+AI+systems+that+talk%2C+think%2C+and+ship.;Design-led.+Full-stack.+Never+boring.)](https://github.com/eshavalunj)
 
 </div>
 
@@ -28,98 +26,72 @@
   <img src="https://komarev.com/ghpvc/?username=eshavalunj&color=7a5c40&style=flat-square&label=views" />
 </div>
 
-<br/><br/>
-
 ---
-
-<br/>
 
 ```
-  second-year IT student @ VIT Mumbai  ·  intern @ JavaSpark Solutions
-  i build interfaces that have a point of view, and AI systems that actually ship.
-  hackathon regular. figma-first. deploys to vercel at 2am.
+second-year IT student @ VIT Mumbai  ·  intern @ JavaSpark Solutions
+i build interfaces that have a point of view, and AI systems that actually ship.
+hackathon regular. figma-first. deploys to vercel at 2am.
 ```
 
-<br/>
+---
+
+## // currently
+
+🛠 building — AI-powered full-stack apps with voice agents, RAG pipelines, real deployments
+🎓 studying — Information Technology · VIT Mumbai
+🧪 interning — JavaSpark Solutions under Kamal Shah
+🏆 competing — hackathons with Atharv & Abedan
 
 ---
 
-<br/>
+## // i work in three layers
 
-**// currently**
-
-<br/>
-
-🛠 &nbsp;building — AI-powered full-stack apps with voice agents, RAG pipelines, real deployments  
-🎓 &nbsp;studying — Information Technology · VIT Mumbai  
-🧪 &nbsp;interning — JavaSpark Solutions under Kamal Shah  
-🏆 &nbsp;competing — hackathons with Atharv & Abedan  
-
-<br/>
+|                  |                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------- |
+| **interface**    | React · Next.js · Tailwind · Vite · Framer Motion — pixel-precise UI with micro-interactions |
+| **backend**      | FastAPI · Node.js · Supabase · Firebase · PostgreSQL · MongoDB                               |
+| **intelligence** | GPT-4 · Azure Neural TTS/STT · PyTorch · SHAP · RAG · ChromaDB · VAPI.ai                     |
 
 ---
 
-<br/>
-
-**// i work in three layers**
-
-<br/>
-
-| | |
-|---|---|
-| **interface** | React · Next.js · Tailwind · Vite · Framer Motion — pixel-precise UI with micro-interactions |
-| **backend** | FastAPI · Node.js · Supabase · Firebase · PostgreSQL · MongoDB |
-| **intelligence** | GPT-4 · Azure Neural TTS/STT · PyTorch · SHAP · RAG · ChromaDB · VAPI.ai |
-
-<br/>
-
-**// languages**
-
-<br/>
+## // languages
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1f1108?style=flat-square&logo=python&logoColor=c8904a)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f1108?style=flat-square&logo=javascript&logoColor=c8904a)
-![Java](https://img.shields.io/badge/Java-1f1108?style=flat-square&logo=openjdk&logoColor=c8904a)
-![Kotlin](https://img.shields.io/badge/Kotlin-1f1108?style=flat-square&logo=kotlin&logoColor=c8904a)
-![C++](https://img.shields.io/badge/C++-1f1108?style=flat-square&logo=cplusplus&logoColor=c8904a)
-![PHP](https://img.shields.io/badge/PHP-1f1108?style=flat-square&logo=php&logoColor=c8904a)
+![Python](https://img.shields.io/badge/Python-1f1108?style=flat-square\&logo=python\&logoColor=c8904a)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f1108?style=flat-square\&logo=javascript\&logoColor=c8904a)
+![Java](https://img.shields.io/badge/Java-1f1108?style=flat-square\&logo=openjdk\&logoColor=c8904a)
+![Kotlin](https://img.shields.io/badge/Kotlin-1f1108?style=flat-square\&logo=kotlin\&logoColor=c8904a)
+![C++](https://img.shields.io/badge/C++-1f1108?style=flat-square\&logo=cplusplus\&logoColor=c8904a)
+![PHP](https://img.shields.io/badge/PHP-1f1108?style=flat-square\&logo=php\&logoColor=c8904a)
 
 </div>
-
-<br/>
-
-**// tools**
-
-<br/>
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-1f1108?style=flat-square&logo=next.js&logoColor=c8904a)
-![React](https://img.shields.io/badge/React-1f1108?style=flat-square&logo=react&logoColor=c8904a)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1f1108?style=flat-square&logo=tailwind-css&logoColor=c8904a)
-![FastAPI](https://img.shields.io/badge/FastAPI-1f1108?style=flat-square&logo=fastapi&logoColor=c8904a)
-![Supabase](https://img.shields.io/badge/Supabase-1f1108?style=flat-square&logo=supabase&logoColor=c8904a)
-![PyTorch](https://img.shields.io/badge/PyTorch-1f1108?style=flat-square&logo=pytorch&logoColor=c8904a)
-![Firebase](https://img.shields.io/badge/Firebase-1f1108?style=flat-square&logo=firebase&logoColor=c8904a)
-![Vercel](https://img.shields.io/badge/Vercel-1f1108?style=flat-square&logo=vercel&logoColor=c8904a)
-![Figma](https://img.shields.io/badge/Figma-1f1108?style=flat-square&logo=figma&logoColor=c8904a)
-![Framer](https://img.shields.io/badge/Framer-1f1108?style=flat-square&logo=framer&logoColor=c8904a)
-![Google Cloud](https://img.shields.io/badge/GCP-1f1108?style=flat-square&logo=google-cloud&logoColor=c8904a)
-![Git](https://img.shields.io/badge/Git-1f1108?style=flat-square&logo=git&logoColor=c8904a)
-
-</div>
-
-<br/>
 
 ---
 
-<br/>
+## // tools
 
-**// shipped**
+<div align="center">
 
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js-1f1108?style=flat-square\&logo=next.js\&logoColor=c8904a)
+![React](https://img.shields.io/badge/React-1f1108?style=flat-square\&logo=react\&logoColor=c8904a)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1f1108?style=flat-square\&logo=tailwind-css\&logoColor=c8904a)
+![FastAPI](https://img.shields.io/badge/FastAPI-1f1108?style=flat-square\&logo=fastapi\&logoColor=c8904a)
+![Supabase](https://img.shields.io/badge/Supabase-1f1108?style=flat-square\&logo=supabase\&logoColor=c8904a)
+![PyTorch](https://img.shields.io/badge/PyTorch-1f1108?style=flat-square\&logo=pytorch\&logoColor=c8904a)
+![Firebase](https://img.shields.io/badge/Firebase-1f1108?style=flat-square\&logo=firebase\&logoColor=c8904a)
+![Vercel](https://img.shields.io/badge/Vercel-1f1108?style=flat-square\&logo=vercel\&logoColor=c8904a)
+![Figma](https://img.shields.io/badge/Figma-1f1108?style=flat-square\&logo=figma\&logoColor=c8904a)
+![Framer](https://img.shields.io/badge/Framer-1f1108?style=flat-square\&logo=framer\&logoColor=c8904a)
+![Google Cloud](https://img.shields.io/badge/GCP-1f1108?style=flat-square\&logo=google-cloud\&logoColor=c8904a)
+![Git](https://img.shields.io/badge/Git-1f1108?style=flat-square\&logo=git\&logoColor=c8904a)
+
+</div>
+
+---
+
+## // shipped
 
 <table>
 <tr>
@@ -130,6 +102,7 @@
 Hindi voice agent (Saathi) for Indian farmers. GPT-4.1 · Azure Neural TTS · VAPI.ai · Next.js · FastAPI. Live on Vercel.
 
 </td>
+
 <td width="50%" valign="top">
 
 **[VitalGuardian](https://github.com/eshavalunj/VitalGuardian)** — HackFest Innov8 TMRW · Top 15
@@ -140,15 +113,9 @@ ICU deterioration prediction. PyTorch LSTM + Isolation Forest · SHAP explainabi
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-**// stats**
-
-<br/>
+## // stats
 
 <div align="center">
 
@@ -168,24 +135,13 @@ ICU deterioration prediction. PyTorch LSTM + Isolation Forest · SHAP explainabi
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## // contribution
 
-**// contribution**
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshavalunj&bg_color=0d1f1f&color=00e5cc&line=00e5cc&point=4dffd4&area=true&area_color=00e5cc&hide_border=true)
-
-
-<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshavalunj\&bg_color=1a0e06\&color=c8904a\&line=c8904a\&point=ffd76a\&area=true\&area_color=ffd76a\&hide_border=true)
 
 ---
-
-<br/>
 
 <div align="center">
 
@@ -193,10 +149,11 @@ ICU deterioration prediction. PyTorch LSTM + Isolation Forest · SHAP explainabi
 
 <br/>
 
-[eshavalunjj@gmail.com](mailto:eshavalunjj@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/esha-valunj) &nbsp;·&nbsp; Mumbai, India
+[eshavalunjj@gmail.com](mailto:eshavalunjj@gmail.com) · [linkedin](https://linkedin.com/in/esha-valunj) · Mumbai, India
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a00,50:1f1108,100:1a0a00&height=100&section=footer" />
 
 </div>
+
