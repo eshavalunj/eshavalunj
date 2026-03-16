@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a00,50:1f1108,100:1a0a00&height=280&section=header&text=esha%20valunj&fontSize=72&fontColor=f0ddc0&fontAlignY=46&fontFamily=Playfair+Display&desc=frontend+developer+%C2%B7+ai+builder+%C2%B7+creative+technologist&descSize=13&descAlignY=65&descColor=7a5c40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Esha%20Valunj&fontSize=70&fontAlignY=45&fontColor=F5E6C8&color=0:0f0f0f,50:1a1a1a,100:000000&desc=Frontend%20Developer%20·%20AI%20Builder%20·%20Creative%20Technologist&descSize=16&descAlignY=65&descColor=C9A86A&animation=fadeIn&font=Playfair%20Display" />
+
+
 </div>
 <br/>
 
