@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Esha%20Valunj&fontSize=70&fontAlignY=45&fontColor=F5E6C8&color=0:0f0f0f,50:1a1a1a,100:000000&desc=Frontend%20Developer%20·%20AI%20Builder%20·%20Creative%20Technologist&descSize=16&descAlignY=65&descColor=C9A86A&animation=fadeIn&font=Playfair%20Display" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Esha%20Valunj&fontSize=70&fontAlignY=40&color=0:ff7eb3,25:ff758c,50:ff6a00,75:8e2de2,100:4facfe&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20✦%20AI%20Builder%20✦%20Creative%20Technologist&descAlignY=63&descSize=18"/>
 
+</div>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=FF7EB3&center=true&vCenter=true&width=600&lines=Designing+beautiful+interfaces;Building+AI+experiments;Creating+interactive+web+experiences;Exploring+creative+technology"/>
+
+</p>
 </div>
 <br/>
 
