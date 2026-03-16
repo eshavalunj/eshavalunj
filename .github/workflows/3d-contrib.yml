@@ -1,0 +1,36 @@
+name: ESHA_OS — 3D Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # runs daily at 18:00 UTC (midnight IST)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib-chart
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Generates SVG files into profile-3d-contrib/ folder
+      - name: Generate 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: settings/3d-contrib-settings.json
+
+      - name: Commit & push
+        run: |
+          git config user.name  "ESHA_OS[bot]"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution chart [skip ci]"
+          git push
