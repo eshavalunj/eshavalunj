@@ -170,11 +170,8 @@ ICU deterioration prediction. PyTorch LSTM + Isolation Forest · SHAP explainabi
 
 <br/>
 
-<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshavalunj&bg_color=0d1f1f&color=00e5cc&line=00e5cc&point=4dffd4&area=true&area_color=00e5cc&hide_border=true)
 
-<img src="https://raw.githubusercontent.com/eshavalunj/eshavalunj/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 <br/>
 
