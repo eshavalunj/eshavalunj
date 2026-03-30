@@ -40,8 +40,8 @@ hackathon regular. figma-first. deploys to vercel at 2am.
 
 🛠 building — AI-powered full-stack apps with voice agents, RAG pipelines, real deployments
 🎓 studying — Information Technology · VIT Mumbai
-🧪 interning — JavaSpark Solutions under Kamal Shah
-🏆 competing — hackathons with Atharv & Abedan
+🧪 interning 
+🏆 competing — hackathons 
 
 ---
 
