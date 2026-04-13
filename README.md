@@ -36,16 +36,16 @@ hackathon regular. figma-first. deploys to vercel at 2am.
 
 ---
 
-## // currently
+##  currently
 
 🛠 building — AI-powered full-stack apps with voice agents, RAG pipelines, real deployments
-🎓 studying — Information Technology · VIT Mumbai
-🧪 interning 
-🏆 competing — hackathons 
+ studying — Information Technology · VIT Mumbai
+ interning 
+ competing — hackathons 
 
 ---
 
-## // i work in three layers
+##  i work in three layers
 
 |                  |                                                                                              |
 | ---------------- | -------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ hackathon regular. figma-first. deploys to vercel at 2am.
 
 ---
 
-## // languages
+##  languages
 
 <div align="center">
 
@@ -70,7 +70,7 @@ hackathon regular. figma-first. deploys to vercel at 2am.
 
 ---
 
-## // tools
+##  tools
 
 <div align="center">
 
@@ -89,59 +89,20 @@ hackathon regular. figma-first. deploys to vercel at 2am.
 
 </div>
 
----
-
-## // shipped
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Kisan Sathi](https://github.com/eshavalunj/kisan-sathi)** — IndiaNext Hackathon 2026
-
-Hindi voice agent (Saathi) for Indian farmers. GPT-4.1 · Azure Neural TTS · VAPI.ai · Next.js · FastAPI. Live on Vercel.
-
-</td>
-
-<td width="50%" valign="top">
-
-**[VitalGuardian](https://github.com/eshavalunj/VitalGuardian)** — HackFest Innov8 TMRW · Top 15
-
-ICU deterioration prediction. PyTorch LSTM + Isolation Forest · SHAP explainability · Streamlit dashboard.
-
-</td>
-</tr>
-</table>
-
----
 
 ## // stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eshavalunj&show_icons=true&theme=dark&bg_color=1a0e06&title_color=c8904a&icon_color=7a5c40&text_color=5a4030&border_color=2e1e0e&border_radius=6&custom_title=github+activity" />
-&nbsp;
 <img width="49%" src="https://streak-stats.demolab.com?user=eshavalunj&theme=dark&background=1a0e06&ring=c8904a&fire=e8b070&currStreakLabel=c8904a&sideLabels=5a4030&border=2e1e0e&border_radius=6&dates=3e2e1e" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshavalunj&layout=compact&theme=dark&bg_color=1a0e06&title_color=c8904a&text_color=5a4030&border_color=2e1e0e&border_radius=6&langs_count=6&custom_title=languages" />
-&nbsp;
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=eshavalunj&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&title=Stars,Commits,Repositories,Followers" />
-
-</div>
-
----
 
 ## // contribution
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshavalunj\&bg_color=1a0e06\&color=c8904a\&line=c8904a\&point=ffd76a\&area=true\&area_color=ffd76a\&hide_border=true)
 
----
 
 <div align="center">
 
