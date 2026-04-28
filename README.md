@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond\&weight=400\&size=19\&duration=2800\&pause=1200\&color=9c7a5a\&center=true\&vCenter=true\&width=700\&lines=I+care+how+it+feels%2C+not+just+whether+it+runs.;VIT+Mumbai+·+SE+INFT+·+Hackathon+Builder;Building+AI+systems+that+talk%2C+think%2C+and+ship.;Design-led.+Full-stack.+Never+boring.)](https://github.com/eshavalunj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond\&weight=400\&size=19\&duration=2800\&pause=1200\&color=9c7a5a\&center=true\&vCenter=true\&width=700\&lines=I+care+how+it+feels%2C+not+just+whether+it+runs.;VIT+Mumbai+·+Builder;Building+AI+systems+that+talk%2C+think%2C+and+ship.;Design-led.+Full-stack.+Never+boring.)](https://github.com/eshavalunj)
 
 </div>
 
@@ -31,7 +31,7 @@
 ```
 second-year IT student @ VIT Mumbai  ·  intern @ JavaSpark Solutions
 i build interfaces that have a point of view, and AI systems that actually ship.
-hackathon regular. figma-first. deploys to vercel at 2am.
+ regular. figma-first. deploys to vercel at 2am.
 ```
 
 ---
